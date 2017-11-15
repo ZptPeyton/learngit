@@ -3,3 +3,4 @@ Git is free software.
 加了新东西
 这是1
 这是2
+这是3
